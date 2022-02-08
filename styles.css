@@ -1,0 +1,17 @@
+body {
+    background:#FFBF00;
+}
+img {
+    width: 700px;
+    height: 360px;
+    border: 10px solid #0E2B85;
+    
+}
+p{
+    text-align: center; 
+}
+h1{
+    text-align: center;
+    color: #0E2B85;
+}
+    
